@@ -35,5 +35,5 @@ def calculator():
         else:
             result = num1 / num2
             print(f"Nəticə: {result}")
-
+            
 calculator()
