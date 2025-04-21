@@ -1,11 +1,9 @@
-# calculator
-Simple Calculator Code in Python
-
 def calculator():
     print("1. Toplama")
     print("2. Çıxma")
     print("3. Vurma")
     print("4. Bölmə")
+
 
     choice = input("Hansı əməliyyatı etmək istəyirsiniz? ")
 
